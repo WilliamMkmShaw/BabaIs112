@@ -1,2 +1,2 @@
-# BabaIs112
+# BabaIS112
 (Hack112 2021)

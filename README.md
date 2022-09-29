@@ -1,4 +1,4 @@
-# BabaIS112
+# BabaIs112
 (Hack112 2021)
 
 Description of Project:
